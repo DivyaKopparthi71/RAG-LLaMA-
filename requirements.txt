@@ -1,2 +1,10 @@
-streamlit
-requests
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+faiss-cpu
+pydantic
+python-multipart
