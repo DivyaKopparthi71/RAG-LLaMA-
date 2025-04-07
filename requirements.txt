@@ -8,3 +8,11 @@ sentence-transformers
 faiss-cpu
 pydantic
 python-multipart
+fastapi
+uvicorn
+langchain
+sentence-transformers==2.2.2
+transformers==4.31.0
+faiss-cpu
+pypdf
+streamlit
